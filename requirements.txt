@@ -1,0 +1,4 @@
+pandas==1.2.5
+plotly==5.1.0
+streamlit==0.62.1
+investpy==1.0.7
